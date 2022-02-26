@@ -12,10 +12,7 @@ and is designed to be used as a prerequisite lesson for other Python based lesso
 This lesson references the Spyder IDE,
 but can be followed with a regular Python interpreter as well. Please note that this lesson uses Python 3.
 
-> ## Credit
->
-> **This lesson is an adapted from the Library Carpentry Lesson ["Python Intro for Libraries"](https://librarycarpentry.org/lc-python-intro/)
-{: .callout}
+This lesson is an adapted from the Library Carpentry Lesson ["Python Intro for Libraries"](https://librarycarpentry.org/lc-python-intro/)
 
 > ## Prerequisites
 >
@@ -23,3 +20,14 @@ but can be followed with a regular Python interpreter as well. Please note that 
 > Please see [the setup instructions]({{ page.root }}/setup.html) for details.
 > 
 {: .prereq}
+
+> ## Preparation
+> In preparation for the lesson, please download and save the two following two files in a folder for this workshop:
+> 
+> - The principles in this lesson are demonstrated with the ["demonstration script"](https://arminstraube.github.io/lc-python-intro/files/demonstration.py)
+> - The exercises are written in the ["exercises script"](https://arminstraube.github.io/lc-python-intro/files/exercises.py) 
+> 
+> Open the files with the Spyder editor (part of the Anaconda package).
+> 
+{: .callout}
+
