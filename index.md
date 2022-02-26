@@ -30,5 +30,3 @@ This lesson is an adapted from the Library Carpentry Lesson ["Python Intro for L
 > Open the files with the Spyder editor (part of the Anaconda package).
 > 
 {: .callout}
-
-Python-Introduction/files/demonstration.py
